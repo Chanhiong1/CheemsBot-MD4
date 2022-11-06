@@ -61,16 +61,16 @@ global.socialm = "GitHub: Elgazar" //ur github or insta name
 global.location = "Egypt, Cairo, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['201098906252']
-global.ownertag = '201098906252' //ur tag number
-global.botname = '𝑩𝑶𝑻 𝑬𝑳𝑮𝑨𝒁𝑨𝑹🐼🍷 ٫' //ur bot name
+global.owner = ['201111467675']
+global.ownertag = '201111467675' //ur tag number
+global.botname = '匚卄卂几 ٫' //ur bot name
 global.linkz = "https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g" //ur website to be displayed
 global.botscript = 'https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn' //script link
-global.reactmoji = "🌚" //ur menu react emoji
-global.themeemoji = "🌞" //ur theme emoji
-global.packname = "⍣ الجزار الوزير يروحي ⍣" //ur sticker watermark packname
-global.author = "⍣01098906252⍣" //ur sticker watermark author
+global.reactmoji = "🖤" //ur menu react emoji
+global.themeemoji = "🎧" //ur theme emoji
+global.packname = "⍣ 匚卄卂几 ⍣" //ur sticker watermark packname
+global.author = "⍣01111467675⍣" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['201098906252'] //ur premium numbers
+global.premium = ['01111467675'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -105,7 +105,7 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'تم يروحي ✓',
+    success: 'تم يا برو ✓',
     admin: 'هذه الميزه للرجاله المشرفين,استرجل وجرب مره تانيه!! ',
     botAdmin: 'يجب أن يكون البوت مسؤولاً أولاً!',
     owner: 'هذه الميزة للمالك فقط!',
