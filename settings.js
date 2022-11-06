@@ -54,7 +54,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['201098906252'] //ur owner number
+global.vcardowner = ['01111467675'] //ur owner number
 global.ownername = "𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑨𝑳𝑾𝑨𝒁𝑬𝑹🐼🍷 ٫" //ur owner name
 global.ytname = "YT: Elgazar" //ur yt chanel name
 global.socialm = "GitHub: Elgazar" //ur github or insta name
@@ -80,24 +80,24 @@ global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
 global.premium = ['01111467675'] //ur premium numbers
-global.ntilinkytvid = []
-global.ntilinkytch = []
-global.ntilinkig = []
-global.ntilinkfb = []
-global.ntilinktg = []
-global.ntilinktt = []
-global.ntilinktwt = []
-global.ntilinkall = []
-global.nticall = []
-global.ntwame = []
-global.nttoxic = []
-global.ntnsfw = []
-global.ntvirtex = []
-global.rkyt = []
-global.wlcm = []
-global.gcrevoke = []
-global.autorep = []
-global.ntilink = []
+global.ntilinkytvid = [1]
+global.ntilinkytch = [2]
+global.ntilinkig = [3]
+global.ntilinkfb = [4]
+global.ntilinktg = [5]
+global.ntilinktt = [6]
+global.ntilinktwt = [7]
+global.ntilinkall = [8]
+global.nticall = [9]
+global.ntwame = [10]
+global.nttoxic = [11]
+global.ntnsfw = [12]
+global.ntvirtex = [13]
+global.rkyt = [14]
+global.wlcm = [15]
+global.gcrevoke = [16]
+global.autorep = [17]
+global.ntilink = [18]
 
 //omther
 global.sessionName = 'session'
